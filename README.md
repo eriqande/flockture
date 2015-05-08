@@ -33,7 +33,6 @@ structure.  However, flockture runs much faster than flock itself and can return
 about intermediate calculations than flock does, so it might be useful for people  endeavoring
 to understand how the flock algorithm behaves.
 
-We are currently still testing to confirm that flockture yields the same results as flock.
 
 ## Running stuff
 
